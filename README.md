@@ -15,7 +15,24 @@
 - **ttkbootstrap** ≥ 1.10.1 → Interfaz gráfica (GUI).
 - **Pillow** ≥ 10.0.0 → Gestión de imágenes y logos.
 
-![Vista Escritorio](images/vista_escritorio.png)
-![Vista Presentación](images/vista_presentacion.png)
-![Vista Monitor](images/vista_monitor.png)
-![Vista General](images/vista_general.png)
+## 🖼️ Vistas del sistema
+
+### 🏠 Escritorio
+<p align="center">
+  <img src="Aplicacion/Avance 3-Monitor-recursos/vistas/1.jpg" alt="Vista Escritorio" width="600">
+</p>
+
+### 💡 Presentación
+<p align="center">
+  <img src="Aplicacion/Avance 3-Monitor-recursos/vistas/2.jpg" alt="Vista Presentación" width="600">
+</p>
+
+### 📊 Monitor
+<p align="center">
+  <img src="Aplicacion/Avance 3-Monitor-recursos/vistas/3.jpg" alt="Vista Monitor" width="600">
+</p>
+
+### 🌐 Vista General
+<p align="center">
+  <img src="Aplicacion/Avance 3-Monitor-recursos/vistas/4.jpg" alt="Vista General del Sistema" width="600">
+</p>
