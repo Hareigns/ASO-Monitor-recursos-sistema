@@ -18,6 +18,7 @@
 ## 🖼️ Vistas del sistema
 
 ### 🏠 Escritorio
+<br><img src="https://help.github.com/assets/images/help/repository/fork_button.jpg" title="Fork image" width="400"/>
 <p align="center">
   <img src="https://www.imgbob.net/PNJg4R7Fz9UVskI" alt="Vista Escritorio" width="600">
 </p>
