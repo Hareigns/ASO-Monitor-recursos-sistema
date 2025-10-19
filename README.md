@@ -19,20 +19,20 @@
 
 ### 🏠 Escritorio
 <p align="center">
-  <img src="[Aplicacion/Avance 3-Monitor-recursos/vistas/1.jpg](https://www.imgbob.net/PNJg4R7Fz9UVskI)" alt="Vista Escritorio" width="600">
+  <img src="https://www.imgbob.net/PNJg4R7Fz9UVskI" alt="Vista Escritorio" width="600">
 </p>
 
 ### 💡 Presentación
 <p align="center">
-  <img src="Aplicacion/Avance 3-Monitor-recursos/vistas/2.jpg" alt="Vista Presentación" width="600">
+  <img src="https://www.imgbob.net/PNJg4R7Fz9UVskI" alt="Vista Presentación" width="600">
 </p>
 
 ### 📊 Monitor
 <p align="center">
-  <img src="Aplicacion/Avance 3-Monitor-recursos/vistas/3.jpg" alt="Vista Monitor" width="600">
+  <img src="https://www.imgbob.net/PNJg4R7Fz9UVskI" alt="Vista Monitor" width="600">
 </p>
 
 ### 🌐 Vista General
 <p align="center">
-  <img src="Aplicacion/Avance 3-Monitor-recursos/vistas/4.jpg" alt="Vista General del Sistema" width="600">
+  <img src="https://www.imgbob.net/PNJg4R7Fz9UVskI" alt="Vista General del Sistema" width="600">
 </p>
