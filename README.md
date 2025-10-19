@@ -19,7 +19,7 @@
 
 ### 🏠 Escritorio
 <p align="center">
-  <img src="Aplicacion/Avance 3-Monitor-recursos/vistas/1.jpg" alt="Vista Escritorio" width="600">
+  <img src="[Aplicacion/Avance 3-Monitor-recursos/vistas/1.jpg](https://www.imgbob.net/PNJg4R7Fz9UVskI)" alt="Vista Escritorio" width="600">
 </p>
 
 ### 💡 Presentación
