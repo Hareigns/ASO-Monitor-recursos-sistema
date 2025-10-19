@@ -20,21 +20,11 @@
 ### 🏠 Escritorio
 <a target="_blank" href="https://www.imgbob.net/PNJg4R7Fz9UVskI"><img  src="https://www.imgbob.net/ib/LldClRZkRDIugyk_1760890423.jpg" alt="1.jpg"/></a>
 
-<p align="center">
-  <img src="https://www.imgbob.net/PNJg4R7Fz9UVskI" alt="Vista Escritorio" width="600">
-</p>
-
 ### 💡 Presentación
-<p align="center">
-  <img src="https://www.imgbob.net/PNJg4R7Fz9UVskI" alt="Vista Presentación" width="600">
-</p>
+<a target="_blank" href="https://www.imgbob.net/Jab83ESTyBhGe74"><img  src="https://www.imgbob.net/ib/ftYbZfZNkkkjMgY_1760890423.jpg" alt="2.jpg"/></a>
 
 ### 📊 Monitor
-<p align="center">
-  <img src="https://www.imgbob.net/PNJg4R7Fz9UVskI" alt="Vista Monitor" width="600">
-</p>
+<a target="_blank" href="https://www.imgbob.net/6lCmeNtLGKVcIUU"><img  src="https://www.imgbob.net/ib/2UMsN4Q03egYHwj_1760890423.jpg" alt="3.jpg"/></a>
 
 ### 🌐 Vista General
-<p align="center">
-  <img src="https://www.imgbob.net/PNJg4R7Fz9UVskI" alt="Vista General del Sistema" width="600">
-</p>
+<a target="_blank" href="https://www.imgbob.net/nwdneAyiVyLR5Eu"><img  src="https://www.imgbob.net/ib/ZVuYWUUuKbHWVp4_1760890423.jpg" alt="4.jpg"/></a>
